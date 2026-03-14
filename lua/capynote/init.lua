@@ -1,7 +1,9 @@
+local cmd = require("capynote.cmd")
+
 local cn = {}
 
 function cn.setup()
-  -- setup!
+  cmd.setup()
 end
 
 return cn
