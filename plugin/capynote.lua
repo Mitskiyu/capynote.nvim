@@ -1,0 +1,1 @@
+require("capynote").setup()
